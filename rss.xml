@@ -4,7 +4,7 @@
         <description><![CDATA[Kim Haskell]]></description>
         <link>http://kimhaskell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 02:21:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 May 2016 02:21:56 GMT</lastBuildDate>
         <atom:link href="http://kimhaskell.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Kennedy and Gage Manapat]]></title>
@@ -14,11 +14,18 @@
             <pubDate>Wed, 18 May 2016 02:21:09 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Joey and Emily Brown]]></title>
+            <description><![CDATA[<article><h1>Joey and Emily Brown</h1><p>The wedding of Joey and Emily Brown.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3949c9bfac94e970442c09bb67c28f0ed8bcea74.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=nK5NH3S7-P0</link>
+            <guid isPermaLink="false">1b1b7b3a-f81b-46f9-bea6-b512440d0481</guid>
+            <pubDate>Wed, 18 May 2016 02:21:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[NMR Kickstarter Video]]></title>
             <description><![CDATA[<article><h1>NMR Kickstarter Video</h1><p>New Man Revolution brings you manly hygiene products for manly men. Be sure to check out their products and stellar crowdfunding campaign on Kickstarter.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e5972a934971915d9dbc1945ff981118e09ded1.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=PvHi-NPUUUc&amp;feature=youtu.be</link>
             <guid isPermaLink="false">6cb9ab90-1c40-4f35-90a6-053de820c6ad</guid>
-            <pubDate>Wed, 18 May 2016 02:19:15 GMT</pubDate>
+            <pubDate>Wed, 18 May 2016 02:21:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Norah and Daniel Hildebrant]]></title>
@@ -33,13 +40,6 @@
             <link>http://kimhaskell.com/hello-world-its-a-new-site-and-a-new-adventure-im-excite/index.html</link>
             <guid isPermaLink="false">1d6f52fe-acac-4efc-a9d5-388fc1df1ffc</guid>
             <pubDate>Wed, 18 May 2016 02:14:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joey and Emily Brown]]></title>
-            <description><![CDATA[<article><h1>Joey and Emily Brown</h1><p>The wedding of Joey and Emily Brown.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3949c9bfac94e970442c09bb67c28f0ed8bcea74.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=nK5NH3S7-P0</link>
-            <guid isPermaLink="false">1b1b7b3a-f81b-46f9-bea6-b512440d0481</guid>
-            <pubDate>Wed, 18 May 2016 00:48:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
