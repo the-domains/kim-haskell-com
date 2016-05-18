@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=c45Xp_PymA0'
 inLanguage: null
 keywords: []
 description: 'The wedding of Norah and Daniel Hildebrandt. '
-datePublished: '2016-05-18T02:15:52.265Z'
-dateModified: '2016-05-18T02:15:47.248Z'
+datePublished: '2016-05-18T02:22:16.613Z'
+dateModified: '2016-05-18T02:22:15.065Z'
 author:
   - name: Kim Haskell
     url: 'https://www.youtube.com/user/kimthehaskell'
