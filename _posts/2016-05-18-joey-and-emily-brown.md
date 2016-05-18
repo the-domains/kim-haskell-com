@@ -1,26 +1,28 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=nK5NH3S7-P0'
+inLanguage: null
+keywords: []
+description: The wedding of Joey and Emily Brown.
+datePublished: '2016-05-18T02:21:55.186Z'
+dateModified: '2016-05-18T02:21:52.464Z'
 author:
   - name: Kim Haskell
     url: 'https://www.youtube.com/user/kimthehaskell'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: The wedding of Joey and Emily Brown.
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=nK5NH3S7-P0'
 title: Joey and Emily Brown
-datePublished: '2016-05-18T00:48:09.900Z'
-dateModified: '2016-05-18T00:47:39.333Z'
-starred: false
 sourcePath: _posts/2016-05-18-joey-and-emily-brown.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
