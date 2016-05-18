@@ -16,8 +16,8 @@ keywords:
   - kickstarter
   - wong
 description: New Man Revolution brings you manly hygiene products for manly men. Be sure to check out their products and stellar crowdfunding campaign on Kickstarter.com
-datePublished: '2016-05-18T02:21:12.585Z'
-dateModified: '2016-05-18T02:19:40.564Z'
+datePublished: '2016-05-18T02:23:07.773Z'
+dateModified: '2016-05-18T02:23:04.892Z'
 author:
   - name: Kim Haskell
     url: 'https://www.youtube.com/user/kimthehaskell'
