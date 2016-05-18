@@ -16,8 +16,8 @@ keywords:
   - parker
   - '604'
 description: The wedding of my beautiful sister Kennedy and her hubby Gage Manapat.
-datePublished: '2016-05-18T02:16:16.669Z'
-dateModified: '2016-05-18T02:16:14.188Z'
+datePublished: '2016-05-18T02:17:58.201Z'
+dateModified: '2016-05-18T02:17:54.367Z'
 author:
   - name: Kim Haskell
     url: 'https://www.youtube.com/user/kimthehaskell'
