@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "My name is Kim Haskell, I'm a filmmaker living in Boise, Idaho. I've got a passion for visual storytelling, and put it to work creating captivating video for businesses and wedding clients. For information on pricing for your project, or for any other inquiries contact me at: kim@kimhaskellcinematography.com or via phone at 208-501-3131"
-datePublished: '2016-05-18T01:42:53.490Z'
-dateModified: '2016-05-18T01:42:25.581Z'
+datePublished: '2016-05-18T01:45:54.650Z'
+dateModified: '2016-05-18T01:45:20.634Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-18-my-name-is-kim-haskell-im-a-filmmaker-living-in-boise-ida.md
@@ -16,7 +16,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: my-name-is-kim-haskell-im-a-filmmaker-living-in-boise-ida/index.html
 _type: Article
 
