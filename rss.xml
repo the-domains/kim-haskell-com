@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Kim Haskell.com]]></title>
-        <description><![CDATA[Kim Haskell.com]]></description>
-        <link>https://thegrid.ai/kim-haskell-com/</link>
+        <title><![CDATA[Kim Haskell]]></title>
+        <description><![CDATA[Kim Haskell]]></description>
+        <link>http://kimhaskell.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 18 May 2016 00:48:11 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/kim-haskell-com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 18 May 2016 01:20:20 GMT</lastBuildDate>
+        <atom:link href="http://kimhaskell.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Norah and Daniel Hildebrant]]></title>
+            <description><![CDATA[<article><h1>Norah and Daniel Hildebrant</h1><p>The wedding of Norah and Daniel Hildebrandt. Shot on the sony A7s and Canon Rebel t3i (Way too hard to mix, so I'm not doing that again)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/041c794da23c4ae41a076bc29087afee25a2b628.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=c45Xp_PymA0</link>
+            <guid isPermaLink="false">325a3680-1b23-4e22-8e2e-c7aa028e23d6</guid>
+            <pubDate>Wed, 18 May 2016 01:20:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Joey and Emily Brown]]></title>
             <description><![CDATA[<article><h1>Joey and Emily Brown</h1><p>The wedding of Joey and Emily Brown.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3949c9bfac94e970442c09bb67c28f0ed8bcea74.jpg"></article>]]></description>
@@ -16,14 +23,14 @@
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8198d46-2181-4f85-9d70-b0fa1ebb0a09.jpg">]]></description>
-            <link>https://thegrid.ai/kim-haskell-com/ac7ad477-efc6-4ed8-945a-33da82b795ef/index.html</link>
+            <link>http://kimhaskell.com/ac7ad477-efc6-4ed8-945a-33da82b795ef/index.html</link>
             <guid isPermaLink="false">ac7ad477-efc6-4ed8-945a-33da82b795ef</guid>
             <pubDate>Wed, 18 May 2016 00:46:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello World! It's a new site and a new adventure, I'm excited to share my works on here for all of you to enjoy. Stay tuned! -Kim</p>]]></description>
-            <link>https://thegrid.ai/kim-haskell-com/hello-world-its-a-new-site-and-a-new-adventure-im-excite/index.html</link>
+            <link>http://kimhaskell.com/hello-world-its-a-new-site-and-a-new-adventure-im-excite/index.html</link>
             <guid isPermaLink="false">1d6f52fe-acac-4efc-a9d5-388fc1df1ffc</guid>
             <pubDate>Wed, 18 May 2016 00:44:40 GMT</pubDate>
         </item>
