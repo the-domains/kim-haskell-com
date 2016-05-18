@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Kim Haskell
-    url: 'https://www.youtube.com/user/kimthehaskell'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=PvHi-NPUUUc&feature=youtu.be'
+inLanguage: en
 keywords:
   - duration
   - megaloud
@@ -21,7 +16,13 @@ keywords:
   - kickstarter
   - wong
 description: New Man Revolution brings you manly hygiene products for manly men. Be sure to check out their products and stellar crowdfunding campaign on Kickstarter.com
-inLanguage: en
+datePublished: '2016-05-18T02:21:12.585Z'
+dateModified: '2016-05-18T02:19:40.564Z'
+author:
+  - name: Kim Haskell
+    url: 'https://www.youtube.com/user/kimthehaskell'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=PvHi-NPUUUc&feature=applinks'
     type: ios
@@ -59,15 +60,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=PvHi-NPUUUc&feature=youtu.be'
 title: NMR Kickstarter Video
-datePublished: '2016-05-18T02:19:15.782Z'
-dateModified: '2016-05-18T02:19:07.644Z'
-starred: false
 sourcePath: _posts/2016-05-18-nmr-kickstarter-video.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
