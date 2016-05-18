@@ -1,26 +1,28 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=c45Xp_PymA0'
+inLanguage: null
+keywords: []
+description: 'The wedding of Norah and Daniel Hildebrandt. '
+datePublished: '2016-05-18T02:12:39.021Z'
+dateModified: '2016-05-18T02:09:12.320Z'
 author:
   - name: Kim Haskell
     url: 'https://www.youtube.com/user/kimthehaskell'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: "The wedding of Norah and Daniel Hildebrandt. Shot on the sony A7s and Canon Rebel t3i (Way too hard to mix, so I'm not doing that again)"
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=c45Xp_PymA0'
 title: Norah and Daniel Hildebrant
-datePublished: '2016-05-18T01:20:19.886Z'
-dateModified: '2016-05-18T01:18:12.586Z'
-starred: false
 sourcePath: _posts/2016-05-18-norah-and-daniel-hildebrant.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
