@@ -1,14 +1,9 @@
 ---
-author:
-  - name: Kim Haskell
-    url: 'https://www.youtube.com/user/kimthehaskell'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=DBbWX7xiLCg'
+inLanguage: en
 keywords:
   - duration
   - wedding
@@ -20,8 +15,14 @@ keywords:
   - failarmy
   - parker
   - '604'
-description: 'The wedding of my beautiful sister Kennedy and her hubby Gage Manapat. Filmed using only the Blackmagic Cinema camera, a tiffin variable ND, a steadicam, and the sigma 18-35mm art.'
-inLanguage: en
+description: The wedding of my beautiful sister Kennedy and her hubby Gage Manapat.
+datePublished: '2016-05-18T02:12:45.652Z'
+dateModified: '2016-05-18T02:03:39.958Z'
+author:
+  - name: Kim Haskell
+    url: 'https://www.youtube.com/user/kimthehaskell'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=DBbWX7xiLCg&feature=applinks'
     type: ios
@@ -59,15 +60,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=DBbWX7xiLCg'
 title: Kennedy and Gage Manapat
-datePublished: '2016-05-18T01:32:08.335Z'
-dateModified: '2016-05-18T01:31:51.120Z'
-starred: false
 sourcePath: _posts/2016-05-18-kennedy-and-gage-manapat.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
