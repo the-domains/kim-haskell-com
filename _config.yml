@@ -1,6 +1,6 @@
 name: Kim Haskell Cinematography
 favicon: null
-layout_spectrum: 0.16529
+layout_spectrum: 0.43038
 typography_spectrum: 0.72013
 title: Kim Haskell
 cta:
@@ -22,7 +22,7 @@ color:
     - '#b19875'
     - '#0b0d0a'
     - '#707b8c'
-  brandStrength: 0.3125
+  brandStrength: 0.25
   lightness: 0.6875
   saturation: 0.6875
   rhythmicContrast: 0.75
