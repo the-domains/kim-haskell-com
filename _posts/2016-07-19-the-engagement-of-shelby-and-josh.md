@@ -5,12 +5,9 @@ inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=OcUNQu0x2Fc'
 inLanguage: null
 keywords: []
-description: >-
-  My very first engagement video. I'm super excited with how it turned out. Shot
-  using the blackmagic ursa mini 4.6k and the sigma 18-35 lens. Shot in prores
-  422 and raw 4:1
-datePublished: '2016-07-19T01:00:17.844Z'
-dateModified: '2016-07-19T01:00:13.340Z'
+description: My very first engagement video done for Shelby and Josh Poole.
+datePublished: '2016-07-19T01:05:31.667Z'
+dateModified: '2016-07-19T01:02:54.938Z'
 author:
   - name: Kim Haskell
     url: 'https://www.youtube.com/user/kimthehaskell'
