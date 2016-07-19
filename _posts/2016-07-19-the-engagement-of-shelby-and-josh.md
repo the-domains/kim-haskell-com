@@ -1,31 +1,31 @@
 ---
-author:
-  - name: Kim Haskell
-    url: 'https://www.youtube.com/user/kimthehaskell'
-    avatar: {}
-related: []
-publisher:
-  name: YouTube
-  domain: www.youtube.com
-  url: 'https://www.youtube.com/'
-  favicon: 'https://www.youtube.com/favicon.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=OcUNQu0x2Fc'
+inLanguage: null
 keywords: []
 description: >-
   My very first engagement video. I'm super excited with how it turned out. Shot
   using the blackmagic ursa mini 4.6k and the sigma 18-35 lens. Shot in prores
   422 and raw 4:1
+datePublished: '2016-07-19T01:00:17.844Z'
+dateModified: '2016-07-19T01:00:13.340Z'
+author:
+  - name: Kim Haskell
+    url: 'https://www.youtube.com/user/kimthehaskell'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=OcUNQu0x2Fc'
 title: The engagement of Shelby and Josh
-datePublished: '2016-07-19T00:58:29.274Z'
-dateModified: '2016-07-19T00:58:23.281Z'
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-authors: []
-starred: true
 sourcePath: _posts/2016-07-19-the-engagement-of-shelby-and-josh.md
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
