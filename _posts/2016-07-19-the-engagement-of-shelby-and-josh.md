@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=OcUNQu0x2Fc'
 inLanguage: null
 keywords: []
 description: My very first engagement video done for Shelby and Josh Poole.
-datePublished: '2016-07-19T01:05:31.667Z'
-dateModified: '2016-07-19T01:02:54.938Z'
+datePublished: '2016-07-19T01:07:09.696Z'
+dateModified: '2016-07-19T01:06:57.056Z'
 author:
   - name: Kim Haskell
     url: 'https://www.youtube.com/user/kimthehaskell'
